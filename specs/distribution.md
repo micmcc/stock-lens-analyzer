@@ -18,9 +18,9 @@ Is deterioration supported by large red candles, heavy sell volume, or repeated 
 
 ### C3 — Momentum rollover (0-2)
 Are RSI/stochastic rolling over from stronger territory or failing to recover?
-- 2 = clear rollover
-- 1 = early rollover risk
-- 0 = momentum still constructive
+- 2 = clear rollover from a stronger zone, or repeated failed recovery
+- 1 = early rollover risk / weakening
+- 0 = momentum still constructive or improving
 
 ### C4 — Supply rejection / premium loss (0-1)
 Is price rejecting from overhead supply or slipping back below acceptance/value?
@@ -32,13 +32,39 @@ Has price lost the key EMA or failed a reclaim?
 - 1 = yes
 - 0 = no
 
+## Trigger Conditions
+
+These elevate a setup from observation to action:
+- breakdown plus failed bounce / lower high after breakdown
+- loss of key support with follow-through, not just an intraday wick
+- rejection at the EMA after a reclaim attempt
+- 2 or more failed reclaim attempts
+- heavy down-volume day that does not recover within 1–2 candles
+
+## Score Interpretation
+
+- 0–2 = Hold / no major deterioration
+- 3–4 = Tighten review
+- 5–6 = Trim review
+- 7–8 = High exit urgency
+
+## Common Distribution Patterns
+
+- lower high after breakout failure
+- failed reclaim
+- range breakdown after compression
+- high-volume rejection from resistance
+- drifting lower under EMA without recovery
+
 ## Setup states
+
 - healthy
 - caution
 - deteriorating
 - failing
 
 ## Entry/action zone language
+
 Prefer one of:
 - hold
 - tighten stop
@@ -47,7 +73,17 @@ Prefer one of:
 - failed reclaim / reduce
 
 ## Invalidation
+
 For this lens, invalidation means the bearish exit thesis is wrong:
 - reclaim of broken support
 - regain of EMA with follow-through
 - recovery above rejection zone
+
+## Context Awareness
+
+When possible, consider:
+- whether the position is extended from entry
+- whether this is the first breakdown or a later-stage failure
+- whether partial profit has already been taken
+
+If context is unknown, assume neutral positioning.

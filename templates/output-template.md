@@ -2,9 +2,9 @@
 
 Lens used: [BREAKOUT or DISTRIBUTION] — [ticker], [timeframe]
 
-| Ticker | Score | C1 | C2 | C3 | C4 | C5 | Setup State | Entry/Action Zone | Invalidation | Targets | Note |
-| ------ | ----: | -- | -- | -- | -- | -- | ----------- | ----------------- | ------------ | ------- | ---- |
-| [TCKR] | [x/8] |    |    |    |    |    |             |                   |              |         |      |
+| Ticker | Score | Action Tier | C1 | C2 | C3 | C4 | C5 | Setup State | Entry/Action Zone | Invalidation | Targets | Note |
+| ------ | ----: | ----------- | -- | -- | -- | -- | -- | ----------- | ----------------- | ------------ | ------- | ---- |
+| [TCKR] | [x/8] | [tier]      |    |    |    |    |    |             |                   |              |         |      |
 
 - [Short bullet: structure]
 - [Short bullet: momentum]
