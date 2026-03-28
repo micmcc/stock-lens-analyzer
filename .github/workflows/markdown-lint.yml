@@ -1,0 +1,13 @@
+name: markdown-check
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  markdown-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Show markdown files
+        run: find . -name "*.md" | sort

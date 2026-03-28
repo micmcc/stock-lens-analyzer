@@ -1,0 +1,4 @@
+interface:
+  display_name: Stock Lens Analyzer
+  short_description: Multi-lens Atlas + TradingView technical analysis
+  category: productivity
