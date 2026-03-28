@@ -17,10 +17,10 @@ Did the move show convincing participation?
 - 0 = weak participation or breakout attempt lacks sponsorship
 
 ### C3 — Momentum shift (0-2)
-Are RSI/stochastic turning constructive without looking exhausted?
-- 2 = clear constructive turn, supportive crossover, or strengthening recovery from a weak zone
-- 1 = early curl / partial confirmation
-- 0 = no helpful momentum shift or momentum already looks spent
+Are RSI/stochastic turning up with room to continue?
+- 2 = clear turn up, supportive crossover, or strong recovery from a weak zone
+- 1 = early turn, but not confirmed
+- 0 = flat, still weak, or already stretched
 
 ### C4 — Acceptance vs supply (0-1)
 Is price sitting above or reclaiming the top of the nearby value area / overhead supply zone?
@@ -34,27 +34,27 @@ Is price above the key EMA or reclaiming it with follow-through?
 
 ## Trigger Conditions
 
-These elevate a setup from observation to action:
-- breakout through the recent lower-high sequence with a close that holds
+Treat the setup as actionable only when one of these is present:
+- break through the recent lower-high sequence or range high, then hold the close
 - reclaim of a key EMA or resistance shelf with follow-through
 - retest of the breakout zone that holds as support
-- volume expansion on the breakout or reclaim attempt
-- second push after a clean base, where the first push proved demand
+- volume expansion on the break or reclaim
+- second push after a clean base, where the first push already proved demand
 
 ## Score Interpretation
 
-- 0–2 = Avoid
-- 3–4 = Watch
-- 5–6 = Review
-- 7–8 = Actionable
+- 0–2 = Avoid: no usable trigger, weak structure, or poor sponsorship
+- 3–4 = Watch: idea is developing, but confirmation is still missing
+- 5–6 = Review: close to actionable, but trigger quality or reward/risk still needs work
+- 7–8 = Actionable: valid trigger or clean retest with room to work
 
 ## Common Breakout Patterns
 
-- descending trendline / lower-high sequence break
-- consolidation ceiling break
+- lower-high sequence break
+- range or consolidation ceiling break
 - EMA reclaim after washout
 - breakout, then orderly retest hold
-- base breakout after low-volatility compression
+- low-volatility base expansion
 
 ## Setup states
 
@@ -84,8 +84,9 @@ Use the nearest chart-based failure condition:
 ## Context Awareness
 
 When possible, consider:
-- whether the setup is early-stage or already extended
-- whether the breakout is first attempt or later-stage exhaustion
-- whether overhead supply is still too close for clean reward/risk
+- whether the setup is early-stage, triggered, or already extended
+- whether this is the first clean break or a later-stage exhaustion move
+- whether overhead supply is too close for clean reward/risk
+- whether the move is broad-market aligned or fighting weak tape
 
 If context is unclear, assume neutral positioning and describe uncertainty explicitly.

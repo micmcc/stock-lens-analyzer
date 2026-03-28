@@ -17,10 +17,10 @@ Is deterioration supported by large red candles, heavy sell volume, or repeated 
 - 0 = little evidence
 
 ### C3 — Momentum rollover (0-2)
-Are RSI/stochastic rolling over from stronger territory or failing to recover?
-- 2 = clear rollover from a stronger zone, or repeated failed recovery
-- 1 = early rollover risk / weakening
-- 0 = momentum still constructive or improving
+Are RSI/stochastic rolling over with limited recovery?
+- 2 = clear rollover from stronger territory or repeated failed recovery
+- 1 = early rollover, but not confirmed
+- 0 = still constructive, stabilizing, or improving
 
 ### C4 — Supply rejection / premium loss (0-1)
 Is price rejecting from overhead supply or slipping back below acceptance/value?
@@ -34,7 +34,7 @@ Has price lost the key EMA or failed a reclaim?
 
 ## Trigger Conditions
 
-These elevate a setup from observation to action:
+Treat the setup as actionable only when one of these is present:
 - breakdown plus failed bounce / lower high after breakdown
 - loss of key support with follow-through, not just an intraday wick
 - rejection at the EMA after a reclaim attempt
@@ -43,10 +43,10 @@ These elevate a setup from observation to action:
 
 ## Score Interpretation
 
-- 0–2 = Hold / no major deterioration
-- 3–4 = Tighten review
-- 5–6 = Trim review
-- 7–8 = High exit urgency
+- 0–2 = Hold / no major deterioration: structure is still mostly intact
+- 3–4 = Tighten review: early warning signs are present
+- 5–6 = Trim review: deterioration is meaningful, but not yet decisive
+- 7–8 = High exit urgency: breakdown or failed reclaim is driving the trade
 
 ## Common Distribution Patterns
 
@@ -82,8 +82,9 @@ For this lens, invalidation means the bearish exit thesis is wrong:
 ## Context Awareness
 
 When possible, consider:
-- whether the position is extended from entry
+- whether the position is extended from entry or still near cost basis
 - whether this is the first breakdown or a later-stage failure
 - whether partial profit has already been taken
+- whether broad-market pressure is accelerating the breakdown
 
 If context is unknown, assume neutral positioning.
